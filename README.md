@@ -8,3 +8,5 @@ Learning flutter
 -   - Uncomment the assets part in the pubspec.yaml
 
 - Pour rapidement créer une classe : stless and press enter
+
+Tips : Pour formater le code ==> raccourci alt + shift + f
