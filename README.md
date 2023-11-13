@@ -15,8 +15,8 @@ Learning flutter
  ===============================================
 
 - Tips : 
-  -   Raccourci
-      -   Pour formater le code ==> alt + shift + f
+   -   Raccourci
+       -   Pour formater le code ==> alt + shift + f
        -   Pour dupliqué une partie de code ==> alt + shift + fleche du bas
    - Pour essayer petit partie de code : Dartpad.dev
    - Il y a une list d'Icon disponible, visible sur                
