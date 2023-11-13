@@ -9,4 +9,10 @@ Learning flutter
 
 - Pour rapidement créer une classe : stless and press enter
 
-Tips : Pour formater le code ==> raccourci alt + shift + f
+
+
+
+ ===============================================
+ -Tips : 
+-  - Pour formater le code ==> raccourci alt + shift + f
+   - Pour essayer petit partie de code : Dartpad.dev 
