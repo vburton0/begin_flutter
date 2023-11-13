@@ -16,4 +16,6 @@ Learning flutter
 
 - Tips : 
 -  - Pour formater le code ==> raccourci alt + shift + f
-   - Pour essayer petit partie de code : Dartpad.dev 
+   - Pour essayer petit partie de code : Dartpad.dev
+   - Il y a une list d'Icon disponible, visible sur                
+       -   https://api.flutter.dev/flutter/material/Icons-class.html
