@@ -9,6 +9,8 @@ Learning flutter
 
 - Pour rapidement créer une classe : stless and press enter
 
+- Classe avec states :
+![Stateful Widgets](https://github.com/vburton0/begin_flutter/assets/73307686/d872daa7-fe86-47b0-8158-1047862d03b2)
 
 
 
