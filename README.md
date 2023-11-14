@@ -10,7 +10,8 @@ Learning flutter
 - Pour rapidement créer une classe : stless and press enter
 
 - Classe avec states :
-![Stateful Widgets](https://github.com/vburton0/begin_flutter/assets/73307686/d872daa7-fe86-47b0-8158-1047862d03b2)
+![Stateful Widgets](https://github.com/vburton0/begin_flutter/assets/73307686/2405c97c-a609-43ab-a999-2b919056590b)
+
 
 Il faut absolument utilisé setState() afin que les changements apporté soit prit en compte.
 
