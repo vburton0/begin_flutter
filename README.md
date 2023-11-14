@@ -1,11 +1,10 @@
-# begin_flutter
 # Learning flutter
 
-# flutter_application_1
+## flutter_application_1
 
 A new Flutter project.
 
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
@@ -18,6 +17,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+### How to begin your code
 
 - Build a application via prompt command
 - Modify the code in lib/main.dart
@@ -39,7 +39,7 @@ Il faut absolument utilisé setState() afin que les changements apporté soit pr
 
  ===============================================
 
-- Tips : 
+## Tips : 
    -   Raccourci
        -   Pour formater le code ==> alt + shift + f
        -   Pour dupliqué une partie de code ==> alt + shift + fleche du bas
