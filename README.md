@@ -26,3 +26,8 @@ Il faut absolument utilisé setState() afin que les changements apporté soit pr
    - Pour essayer petit partie de code : Dartpad.dev
    - Il y a une list d'Icon disponible, visible sur                
        -   https://api.flutter.dev/flutter/material/Icons-class.html
+   - Package dispo sur :
+       -   [pub.dev](https://pub.dev/)https://pub.dev/
+       -   Allez voir dans install et copié la ligne dans le fichier pubspec.yaml, dans la parties dependecies.
+       -   Faire attention a l'indentation.
+       -   Si le packege ne se telecharge pas automatiquement un logo de telechargement devrais s'afficher en haut à droite. 
