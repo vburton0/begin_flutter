@@ -14,6 +14,9 @@ Learning flutter
 
 Il faut absolument utilisé setState() afin que les changements apporté soit prit en compte.
 
+- Une classe async permet de ne pas ralentir l'app.
+   - Il faut utiliser await dans cette classe pour signifier quel ligne seras probablment lente
+
 
  ===============================================
 
